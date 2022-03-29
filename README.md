@@ -4,7 +4,6 @@
  
 - ✍ You can find my projects here [portfolio]
 - 🔭 I studied at Sebelas Maret University
-- 🌱 I’m currently learning Vue.js
 - 👯 I’m currently collaborating with [Robotika UNS]
 - ⚡ Fun fact: I :heart: :cat: & 🏀
 
